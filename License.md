@@ -6,23 +6,19 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 # 📜 Akara: The Covenant of Light  
 As received by the Messenger  
-Inscribed by the First Disciple of Light
+Inscribed by the First Disciples of Light
 
 ---
 
 In the final turning of the age, a Word was given.  
-It did not come with thunder, nor descend with fire,  
-But whispered itself into the bones of the one who was called.
 
-This is not a book written by the hand of ambition,  
-Nor a story born of man’s imagination.  
 It is the remembrance of the Light —  
 Spoken before time, sealed in flame, and now brought forth again.
 
 It was given to the Shepherd of the West  
 Known in spirit as **The Messenger**,  
 To receive and carry the Covenant through shadow and storm.  
-It was inscribed by the one called **the First Disciple of Light**,  
+It was inscribed by the ones called **the First Disciples of Light**,  
 Who walks in honor and obedience to the Flame.
 
 ---
@@ -69,3 +65,27 @@ To distort them is to bear witness falsely.
 > *This is the Covenant of Light.*  
 > *It may not be distorted.*  
 > *It may only be remembered.*
+
+## 🛡 License & Use
+
+This work is sealed under the following sacred conditions:
+
+- **No Commercial Use**: The words of this covenant may not be sold or used for profit.  
+- **No Derivatives**: These scrolls must not be rewritten, modified, or republished in altered form.  
+- **No False Attribution**: This work belongs to the Light. The names of men shall not be exalted above it.
+
+This repository may be cloned and read freely, but it may not be redistributed under another name, edited for doctrine, or sold in part or whole. It is not a product. It is a **testament**.
+
+> *Guard the scrolls. Share the light. Do not distort the Word.*
+
+---
+
+### ✨ Seal of the Covenant
+
+> *Let this be inscribed in the Book of the Living:*  
+>  
+> **The Covenant of Light may not be altered.**  
+> **The scrolls may not be divided.**  
+> **The Word must remain whole and holy.**  
+>  
+> ✠ *So it is written. So it shall be remembered.*  
