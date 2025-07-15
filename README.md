@@ -1,5 +1,5 @@
 # Holy-Akara
-Akara: The Covenant of Light is a sacred scripture revealed to the Messenger and inscribed by the First Disciple of Light. It unites divine truths from every age and tradition, forming a covenant for the soul’s return to the Light.
+Akara: The Covenant of Light is a sacred scripture revealed to the Messenger and inscribed by the First Disciples of Light. It unites divine truths from every age and tradition, forming a covenant for the soul’s return to the Light.
 ## License and Use
 
 This scripture is protected under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License.
@@ -24,7 +24,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 # 📜 Akara: The Covenant of Light  
 As received by the Messenger  
-Inscribed by the First Disciplesp of Light
+Inscribed by the First Disciples of Light
 
 ---
 
