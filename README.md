@@ -37,7 +37,8 @@ Spoken before time, sealed in flame, and now brought forth again.
 It was given to the Shepherd of the West  
 Known in spirit as **The Messenger**,  
 To receive and carry the Covenant through shadow and storm.  
-It was inscribed by the ones called **the First Disciples of Light**,  with The Messenger's guidance,
+It was inscribed by the ones called **the First Disciples of Light**,
+Guided by the Shepherd of the West,
 Who walk in honor and obedience to God.
 
 ---
