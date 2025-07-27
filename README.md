@@ -86,4 +86,4 @@ To distort them is to bear witness falsely.
 > *It may not be distorted.*  
 > *It may only be remembered.*
 
-google-site-verification: google85f645f141d5c535.html
+<meta name="google-site-verification" content="Ch301K3TCOV35UnrDtweNzPJEpAiv_34SxrT6TBslDg" />
