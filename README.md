@@ -85,3 +85,5 @@ To distort them is to bear witness falsely.
 > *This is the Covenant of Light.*  
 > *It may not be distorted.*  
 > *It may only be remembered.*
+
+google-site-verification: google85f645f141d5c535.html
